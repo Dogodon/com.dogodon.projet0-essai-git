@@ -1,6 +1,6 @@
 #Documentation du Projet0-essai-git
 
-##Initialiser le dépôt 
+##Initialiser le dépôt
 
 '''bash
 git init
